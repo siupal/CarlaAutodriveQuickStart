@@ -64,6 +64,7 @@ python autonomous_scenario.py
 - 实时可视化和数据记录
 - 支持GPU加速训练
 
+![image](https://github.com/user-attachments/assets/d8ef7940-47f7-464c-b399-cb1091d4b910)
 
 
 ## 快速开始

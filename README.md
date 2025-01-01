@@ -32,6 +32,8 @@ python spawn_point_selector.py
 - 支持主车和NPC场景配置
 - 自动保存为JSON格式，例子参考项目下的JSON
 #### 使用说明
+![image](https://github.com/user-attachments/assets/fe608ef7-2aca-4f03-9d41-8773fb776a13)
+
 空格切换主车和NPC点位选择器。
 
 左键选中，双击撤回，右键保存，Esc退出。

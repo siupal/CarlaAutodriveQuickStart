@@ -87,27 +87,15 @@ python autonomous_scenario.py
 
 ## 输出说明
 
-训练过程中会自动生成以下输出：
-
-1. 模型检查点：`scenario_output_[timestamp]/models/`
-2. 训练日志：`scenario_output_[timestamp]/logs/`
-3. 评估数据：`scenario_output_[timestamp]/eval/`
 
 ## 注意事项
 
-1. 确保CUDA和PyTorch版本匹配
-2. 运行前检查Carla服务器状态
-3. 建议使用独立显卡运行
-4. 定期备份训练数据
+
 
 ## 贡献指南
 
-欢迎提交Issue和Pull Request来改进项目。在提交代码前，请确保：
 
-1. 代码符合PEP 8规范
-2. 添加适当的注释和文档
-3. 通过所有测试用例
 
 ## 许可证
 
-本项目采用MIT许可证。详见LICENSE文件。
+本项目采用MIT许可证

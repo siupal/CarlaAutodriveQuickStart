@@ -42,9 +42,16 @@ python spawn_point_selector.py
 self.client.load_world('Town03')
 ```
 这里可以选择你想要的地图，运行程序后服务器会切换到你选择的地图。
+### 3. 地图全局 (`caoture_map.py`)
+用于拍摄地图全景并保存为图片：
+```bash
+python spawn_point_selector.py
+```
+![town03](https://github.com/user-attachments/assets/3908304f-ad63-4933-8d04-d5022c2e3c59)
 
+注意:carla大地图为区块加载，可能效果不佳还未尝试
 
-### 3. 自动驾驶场景示例 (`autonomous_scenario.py`)
+### 4. 自动驾驶场景示例 (`autonomous_scenario.py`)
 主要的自动驾驶训练场景：
 ```bash
 python autonomous_scenario.py
